@@ -1,0 +1,1 @@
+var appMod=angular.module("medApp",[]);
